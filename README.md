@@ -42,3 +42,8 @@ E.G., "`$egg giratina dolphy 51`", where:
 * `51` is the number of minutes until hatch
 
 ![egg-report](https://user-images.githubusercontent.com/171037/56749499-d713ff00-674f-11e9-8669-9934df1faf49.png)
+
+You can also upload a screenshot of the raid gym, showing the name of the gym and the time to hatch or despawn. E.G., here's an egg report.
+
+![egg-screenshot](https://user-images.githubusercontent.com/171037/56749880-9799e280-6750-11e9-84af-5826e2893c2c.png)
+
