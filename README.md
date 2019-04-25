@@ -71,6 +71,14 @@ This creates a new channel for that raid, where members of the server can indica
 
 ![new-raid-channel-egg](https://user-images.githubusercontent.com/171037/56753944-bc468800-6759-11e9-905d-95458075dd5f.png)
 
+This updates the map to show the raid progress.
+
+![pogo-map-egg-example](https://user-images.githubusercontent.com/171037/56754285-a1284800-675a-11e9-8a56-6b83090ffa36.png)
+
+If you click the egg, it will show more information about the raid, including time to hatch and despawn, with ongoing timers for both.
+
+![pogo-map-egg-example-expanded](https://user-images.githubusercontent.com/171037/56754392-ea789780-675a-11e9-9570-a36fd3f2481b.png)
+
 
 ### Uploading Gym Screenshots
 
