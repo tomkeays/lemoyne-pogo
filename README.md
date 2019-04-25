@@ -35,9 +35,9 @@ After reporting a raid, it will be listed in the `#active-raids` channel. More i
 
 Full documentation: https://docs.pokenavbot.com/raids.html
 
-### Uploading Gym Screenshots
+### Reporting Raid Bosses: Uploading Gym Screenshots
 
-You can also upload a screenshot of the raid gym, showing the name of the gym and the time to hatch or despawn. E.G., here's an egg report.
+You can upload a screenshot of the raid gym, showing the name of the gym and the time to hatch or despawn. E.G., here's an egg report.
 
 ![egg-screenshot](https://user-images.githubusercontent.com/171037/56749880-9799e280-6750-11e9-84af-5826e2893c2c.png)
 
@@ -55,7 +55,7 @@ Patreon supporters can share their quota with their primary server using the `$s
 
 PokeNav documentation: https://docs.pokenavbot.com/quota.html
 
-### Reporting Raid Bosses
+### Reporting Raid Bosses: Command Line
 
 Command takes this form: "`$raid latios chapel 37`", where:
 
