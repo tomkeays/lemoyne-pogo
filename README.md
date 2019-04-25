@@ -6,9 +6,9 @@ Le Moyne PoGo Map Discord invite: [https://discord.gg/4u8Zjp](https://discord.gg
 
 ## Table of Contents
 
-* [#poi-aliases](POI Aliases)
-* [#reporting-raids](Reporting Raids)
-* [#reporting-research-tasks](Reporting Research Tasks)
+* [POI Aliases](#poi-aliases)
+* [Reporting Raids](#reporting-raids)
+* [Reporting Research Tasks](#reporting-research-tasks)
 
 Here's what the PoGo map for the Le Moyne College quad looks like. 
 
