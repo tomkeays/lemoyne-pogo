@@ -2,7 +2,7 @@
 
 We're using the PokeNav bot in Discord to create a [map showing raid progress and research tasks](https://pgmap.org/map.html?center=43.048631,-76.090419&zoom=17&s2level=0&s2n=2&map=OpenStreetMap&show=1111) on the the Le Moyne College campus.
 
-Le Moyne PoGo Map Discord invite: https://discord.gg/4u8Zjp
+Le Moyne PoGo Map Discord invite: [https://discord.gg/4u8Zjp](https://discord.gg/4u8Zjp)
 
 Here's what the base map looks like now. 
 
