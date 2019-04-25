@@ -117,6 +117,10 @@ You can also ask for counters for a specific Pokemon -- e.g., `$counters drifloo
 
 ## Reporting Research Tasks
 
+Here's an example of how research tasks for the 6 pokestops on the main campus quad were reported.
+
+I maintain a spreadsheet of the current Pokemon encounter research tasks at https://tinyurl.com/tk-field-research
+
 ```
 $q "x200 stardust" library "battle in a raid"
 $q Aerodactyl clock "use an item to evolve a pokemon"
@@ -126,11 +130,28 @@ $q "x200 stardust" grewen "hatch an egg"
 $q "x500 stardust" pac "use 5 berries to help catch a pokemon"
 ```
 
-![research-library](https://user-images.githubusercontent.com/171037/56758486-c1f59b00-6764-11e9-92a3-376007c20a88.png)
+Let's break this down for 3 of these
 
+`$q Aerodactyl clock "use an item to evolve a pokemon"`
+
+* `$q` is the research reporting command
+* `Aerodactyl` is the Pokemon encounter reward for the research task
+* `clock` is the POI alias of the pokestop
+* "`use an item to evolve a pokemon`" is the reward for the research task
+
+Note: the name of the Pokemon doesn't need to be in quotes (and shouldn't be) since it is a single word. However, you have to quote the research task because it is a phrase.
 
 ![research-clock](https://user-images.githubusercontent.com/171037/56758500-cd48c680-6764-11e9-8634-63004d307010.png)
 
+`$q "Omanyte / Kabuto" iron "win a level 3 or higher raid"`
 
+In the above example, we had to quote "`Omanyte / Kabuto`" because there are more than one possible encounter rewards for this task.
 
 ![research-iron](https://user-images.githubusercontent.com/171037/56758520-d8035b80-6764-11e9-9c4d-b3ff3e9d0697.png)
+
+`$q "x200 stardust" library "battle in a raid"`
+
+For research tasks that give stardust or pokeballs as rewards, quote the reward and replicate the wording as closely as possible.
+
+![research-library](https://user-images.githubusercontent.com/171037/56758486-c1f59b00-6764-11e9-92a3-376007c20a88.png)
+
