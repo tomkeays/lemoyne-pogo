@@ -69,4 +69,6 @@ You can also upload a screenshot of the raid gym, showing the name of the gym an
 
 Note: there's a limit of 20 screenshot uploads per month per person. You can check where you are at by typing "`$quote`" in the `#general` channel.
 
+### Raid Counters
 
+If the raid boss was set, simply use `$counters` to get the list of counters for that boss. You can also provide current weather conditions, `$counters rain`.
