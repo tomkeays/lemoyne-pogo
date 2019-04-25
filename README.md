@@ -21,7 +21,7 @@ Here are POI aliases for the Gyms and Pokestops on-campus and near campus. These
 
 ## Reporting Raids
 
-Report in the `#announce-raids-here` channel in Discord. 
+Report in the `#announce-raids-here` channel in Discord. Reporting a raid will create a new channel in Discord that lasts for the duration of the raid.
 
 ### Reporting Raid Bosses
 
