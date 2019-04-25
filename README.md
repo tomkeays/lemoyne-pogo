@@ -117,18 +117,7 @@ You can also ask for counters for a specific Pokemon -- e.g., `$counters drifloo
 
 ## Reporting Research Tasks
 
-Here's an example of how research tasks for the 6 pokestops on the main campus quad were reported.
-
-I maintain a spreadsheet of the current Pokemon encounter research tasks at https://tinyurl.com/tk-field-research
-
-```
-$q "x200 stardust" library "battle in a raid"
-$q Aerodactyl clock "use an item to evolve a pokemon"
-$q "Omanyte / Kabuto" iron "win a level 3 or higher raid"
-$q Gastly bell "make 3 great throws"
-$q "x200 stardust" grewen "hatch an egg"
-$q "x500 stardust" pac "use 5 berries to help catch a pokemon"
-```
+Tom maintains a spreadsheet of the current Pokemon encounter research tasks at https://tinyurl.com/tk-field-research
 
 Let's break this down for 3 of these
 
@@ -155,3 +144,23 @@ For research tasks that give stardust or pokeballs as rewards, quote the reward 
 
 ![research-library](https://user-images.githubusercontent.com/171037/56758486-c1f59b00-6764-11e9-92a3-376007c20a88.png)
 
+### Research Tasks on the Pokemap
+
+Here's an example of how research tasks for the 6 pokestops on the main campus quad were reported on April 25.
+
+```
+$q "x200 stardust" library "battle in a raid"
+$q Aerodactyl clock "use an item to evolve a pokemon"
+$q "Omanyte / Kabuto" iron "win a level 3 or higher raid"
+$q Gastly bell "make 3 great throws"
+$q "x200 stardust" grewen "hatch an egg"
+$q "x500 stardust" pac "use 5 berries to help catch a pokemon"
+```
+
+Here's how these research tasks map onto the Pokemap.
+
+![pogo-map-research](https://user-images.githubusercontent.com/171037/56759716-9c1dc580-6767-11e9-9714-c0615a90020a.png)
+
+If you click the reward icon for a given task, it will expand to show more detail. 
+
+![pogo-map-research-expanded](https://user-images.githubusercontent.com/171037/56759734-a4760080-6767-11e9-8cd0-8509e0153f0b.png)
