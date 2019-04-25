@@ -80,7 +80,7 @@ E.G., "`$egg giratina dolphy 51`" or "`$egg T5 dolphy 51`", where:
 
 Note: You will need to go into the the new raid channel after hatch and report the name of the Raid boss that hatched from the egg. E.G.,  `$boss giratina`
 
-### Example: Reporting Raid
+### Example: Reporting A Raid
 
 A user reports a T1 raid at the Devotion gym hatching in 45 minutes.
 
@@ -118,6 +118,8 @@ You can also ask for counters for a specific Pokemon -- e.g., `$counters drifloo
 
 You report research tasks from the command line in Discord. 
 
+The research tasks involving Pokemon encounters don't tell you up front which Pokemon will be the reward. There are several sites that provide handy infographics with this information, including [LeekDuck](https://leekduck.com/research/), [The Silph Road](https://thesilphroad.com/research-tasks), [GamePress](https://pokemongo.gamepress.gg/research-tasks-list), etc. In addition, Tom maintains a spreadsheet of the current Pokemon encounter research tasks at [https://tinyurl.com/tk-field-research](https://tinyurl.com/tk-field-research)
+
 PokeNav documentation: [https://docs.pokenavbot.com/research.html](https://docs.pokenavbot.com/research.html)
 
 Let's break this down for 3 of these
@@ -130,8 +132,6 @@ Let's break this down for 3 of these
 * `"use an item to evolve a pokemon"` is the reward for the research task
 
 Note: the name of the Pokemon doesn't need to be in quotes (and shouldn't be) since it is a single word. However, you have to quote the research task because it is a phrase.
-
-The research tasks involving Pokemon encounters don't tell you up front which Pokemon will be the reward. There are several sites that provide handy infographics with this information, including [LeekDuck](https://leekduck.com/research/), [The Silph Road](https://thesilphroad.com/research-tasks), [GamePress](https://pokemongo.gamepress.gg/research-tasks-list), etc. In addition, Tom maintains a spreadsheet of the current Pokemon encounter research tasks at [https://tinyurl.com/tk-field-research](https://tinyurl.com/tk-field-research)
 
 ![research-clock](https://user-images.githubusercontent.com/171037/56758500-cd48c680-6764-11e9-8634-63004d307010.png)
 
