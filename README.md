@@ -69,8 +69,17 @@ You can also upload a screenshot of the raid gym, showing the name of the gym an
 
 ![egg-screenshot-report](https://user-images.githubusercontent.com/171037/56750541-ff9cf880-6751-11e9-9c7f-d6a4b4bc871a.png)
 
+### Screenshot Upload Quota
+
 Note: there's a limit of 20 screenshot uploads per month per person. You can check where you are at by typing "`$quota`" in the `#general` channel.
 
+Patreons can share their quota with their primary server using the `$share-quota` command in any channel where PokeNav is active. Multiple people can share their quota with the server, creating a larger pool of available scans. If any user exceeds their individual quota of 20 scans in a given month, they may use up to 30 additional scans from the shared quota.
+
+![quota](https://user-images.githubusercontent.com/171037/56753306-4e4d9100-6758-11e9-8daf-68e25acddf1c.png)
+
+If a user exceeds their individual and shared quota, PokeNav will send them a DM with instructions on increasing their monthly quota via support on Patreon. They will be unable to perform any action that requires scanning a screenshot.
+
+PokeNav documentation: https://docs.pokenavbot.com/quota.html
 ### Raid Counters
 
 If the raid boss was set, simply use `$counters` to get the list of counters for that boss. You can also provide current weather conditions, `$counters rain`.
