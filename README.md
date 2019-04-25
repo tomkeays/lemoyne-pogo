@@ -183,14 +183,3 @@ If you click the reward icon for a given task, it will expand to show more detai
 
 ![pogo-map-research-expanded](https://user-images.githubusercontent.com/171037/56759734-a4760080-6767-11e9-8cd0-8509e0153f0b.png)
 
-<script type="text/javascript">
-  $(function() {
-    $("a[href^='http']:not([href*='tomkeays.com'])").each(function() {
-      $(this).click(function(event) {
-         event.preventDefault();
-         event.stopPropagation();
-         window.open(this.href, '_blank');
-      }).addClass('externalLink');
-    });
-  });
-</script>
