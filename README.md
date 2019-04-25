@@ -2,13 +2,13 @@
 
 We're using the PokeNav bot in Discord to create a [map showing raid progress and research tasks](https://pgmap.org/map.html?center=43.048631,-76.090419&zoom=17&s2level=0&s2n=2&map=OpenStreetMap&show=1111) on the the Le Moyne College campus.
 
+Le Moyne PoGo Map Discord invite: https://discord.gg/4u8Zjp
+
 Here's what the base map looks like now. 
 
 ![pogo-map-unpopulated](https://user-images.githubusercontent.com/171037/56751665-9f5b8600-6754-11e9-8a48-51f1eed00cd9.png)
 
 Note: the "Le Moyne Clock" location appears twice. This is because PokeNav verified the location at one point when the GPS coordinates were off. Those coordinates were fixed in the game, but PokeNav still has the old information. In the meantime, we set the POI alias using the correct GPS coordinates, so it appears twice. PokeNav doesn't yet have a mechanism for the community to report these sorts of errors.
-
-Discord invite: https://discord.gg/4u8Zjp
 
 ## POI Aliases
 
@@ -30,6 +30,8 @@ Here are POI aliases for the Gyms and Pokestops on-campus and near campus. These
 ## Reporting Raids
 
 Report in the `#announce-raids-here` channel in Discord. Reporting a raid will create a new channel in Discord that lasts for the duration of the raid.
+
+After reporting a raid, it will be listed in the `#active-raids` channel. More importantly, it will create a channel on the fly just for that raid, where members of the Discord server can indicate if they will participate.
 
 Full documentation: https://docs.pokenavbot.com/raids.html
 
