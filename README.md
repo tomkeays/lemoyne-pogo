@@ -14,11 +14,17 @@ Note: There really should only be 6 Pokestops on the main quad at Le Moyne Colle
 
 Here are POI aliases for the Gyms and Pokestops on-campus and near campus. These save some typing for reporting Raids and Research.
 
-* bell = "Le Moyne College Bell Tower"
+### Gyms
+
 * chapel = "Panasci Family Chapel"
-* clock = "Le Moyne Clock"
 * devotion = "Devotion"
 * dolphy = "Eric Dolphy Jr. Statue"
+* shelter = "Wheaton Shelter"
+
+### Pokestops
+
+* bell = "Le Moyne College Bell Tower"
+* clock = "Le Moyne Clock"
 * grewen = "Grewen Hall Of Presidents"
 * iron = "Iron Sculpture"
 * library = "Falcone Library"
@@ -26,6 +32,7 @@ Here are POI aliases for the Gyms and Pokestops on-campus and near campus. These
 * pac = "W. Carroll Coyne Center for the Performing Arts"
 * soule = "Soule Branch Library"
 * cemetery = "Salt Springs Cemetery"
+* wheaton = "Homer Wheaton Park"
 
 ## Reporting Raids
 
