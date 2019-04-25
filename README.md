@@ -57,4 +57,6 @@ You can also upload a screenshot of the raid gym, showing the name of the gym an
 
 ![egg-screenshot-report](https://user-images.githubusercontent.com/171037/56750541-ff9cf880-6751-11e9-9c7f-d6a4b4bc871a.png)
 
+Note: there's a limit of 20 screenshot uploads per month per person. You can check where you are at by typing "`$quote`" in the `#general` channel.
+
 
