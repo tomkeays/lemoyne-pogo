@@ -67,6 +67,7 @@ If a user exceeds their individual and shared quota, PokeNav will send them a DM
 Patreon supporters can share their quota with their primary server using the `$share-quota` command in any channel where PokeNav is active. Multiple people can share their quota with the server, creating a larger pool of available scans. If any user exceeds their individual quota of 20 scans in a given month, they may use up to 30 additional scans from the shared quota.
 
 PokeNav documentation: [https://docs.pokenavbot.com/quota.html](https://docs.pokenavbot.com/quota.html)
+
 ### Reporting Raid Bosses: Command Line
 
 Command takes this form: "`$raid latios chapel 37`", where:
