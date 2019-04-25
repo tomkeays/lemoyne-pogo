@@ -164,3 +164,11 @@ Here's how these research tasks map onto the Pokemap.
 If you click the reward icon for a given task, it will expand to show more detail. 
 
 ![pogo-map-research-expanded](https://user-images.githubusercontent.com/171037/56759734-a4760080-6767-11e9-8cd0-8509e0153f0b.png)
+
+<script type="text/javascript">
+  var main = document.querySelector("#main_content"); 
+  var links = main.getElementsByTagName("a"); 
+  for (var i = 0; i < links.length; i++) { 
+      links[i].setAttribute("target", "_blank"); 
+  }
+</script>
