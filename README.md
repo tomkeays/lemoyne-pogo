@@ -47,11 +47,14 @@ E.G., "`$egg giratina dolphy 51`" or "`$egg T5 dolphy 51`", where:
 
 ![egg-report](https://user-images.githubusercontent.com/171037/56749499-d713ff00-674f-11e9-8669-9934df1faf49.png)
 
+Note: You will need to go into the the new raid channel after hatch and report the name of the Raid boss that hatched from the egg. E.G.,  `$boss giratina`
+
+### Uploading Gym Screenshots
+
 You can also upload a screenshot of the raid gym, showing the name of the gym and the time to hatch or despawn. E.G., here's an egg report.
 
 ![egg-screenshot](https://user-images.githubusercontent.com/171037/56749880-9799e280-6750-11e9-84af-5826e2893c2c.png)
 
 ![egg-screenshot-report](https://user-images.githubusercontent.com/171037/56750541-ff9cf880-6751-11e9-9c7f-d6a4b4bc871a.png)
 
-In either case, you will need to go into the the new raid channel and report the name of the Raid boss that hatched from the egg. E.G.,  `$boss giratina`
 
