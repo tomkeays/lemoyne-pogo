@@ -4,15 +4,21 @@ We're using the [PokeNav bot](https://pokenavbot.com/) in Discord to create a [m
 
 Le Moyne PoGo Map Discord invite: [https://discord.gg/4u8Zjp](https://discord.gg/4u8Zjp)
 
-Here's what the base map looks like now. 
+## Table of Contents
+
+* [#poi-aliases](POI Aliases)
+* [#reporting-raids](Reporting Raids)
+* [#reporting-research-tasks](Reporting Research Tasks)
+
+Here's what the PoGo map for the Le Moyne College quad looks like. 
 
 ![pogo-map-unpopulated](https://user-images.githubusercontent.com/171037/56751665-9f5b8600-6754-11e9-8a48-51f1eed00cd9.png)
 
-Note: There really should only be 6 Pokestops on the main quad at Le Moyne College. The "Le Moyne Clock" location appears twice because PokeNav verified the location at one point when the GPS coordinates were off. Those coordinates were fixed in the game in 2018, but PokeNav still has the old information. In the meantime, we set the POI alias using the correct GPS coordinates, so the clock Pokestop appears twice. At the moment, PokeNav doesn't have a mechanism for the community to report these sorts of errors.
+Note: There really should only be six Pokestops on the main quad at Le Moyne College. The "Le Moyne Clock" location appears twice because PokeNav verified the location at one point when the GPS coordinates were off. Those coordinates were fixed in the game in 2018, but PokeNav still has the old information. In the meantime, we set the POI alias using the correct GPS coordinates, so the clock Pokestop appears twice. At the moment, PokeNav doesn't have a mechanism for the community to report these sorts of errors.
 
 ## POI Aliases
 
-Here are POI aliases for the Gyms and Pokestops on-campus and near campus. These save some typing for reporting Raids and Research.
+Here are Points of Interest (POI) aliases for the Gyms and Pokestops on-campus and near campus. These save some typing for reporting Raids and Research.
 
 ### Gyms
 
