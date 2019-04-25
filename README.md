@@ -51,5 +51,7 @@ You can also upload a screenshot of the raid gym, showing the name of the gym an
 
 ![egg-screenshot](https://user-images.githubusercontent.com/171037/56749880-9799e280-6750-11e9-84af-5826e2893c2c.png)
 
+![egg-screenshot-report](https://user-images.githubusercontent.com/171037/56750541-ff9cf880-6751-11e9-9c7f-d6a4b4bc871a.png)
+
 In either case, you will need to go into the the new raid channel and report the name of the Raid boss that hatched from the egg. E.G.,  `$boss giratina`
 
