@@ -35,6 +35,26 @@ After reporting a raid, it will be listed in the `#active-raids` channel. More i
 
 Full documentation: https://docs.pokenavbot.com/raids.html
 
+### Uploading Gym Screenshots
+
+You can also upload a screenshot of the raid gym, showing the name of the gym and the time to hatch or despawn. E.G., here's an egg report.
+
+![egg-screenshot](https://user-images.githubusercontent.com/171037/56749880-9799e280-6750-11e9-84af-5826e2893c2c.png)
+
+![egg-screenshot-report](https://user-images.githubusercontent.com/171037/56750541-ff9cf880-6751-11e9-9c7f-d6a4b4bc871a.png)
+
+### Screenshot Upload Quota
+
+Note: there's a limit of 20 screenshot uploads per month per person. You can check where you are at by typing "`$quota`" in the `#general` channel.
+
+![quota](https://user-images.githubusercontent.com/171037/56753306-4e4d9100-6758-11e9-8daf-68e25acddf1c.png)
+
+If a user exceeds their individual and shared quota, PokeNav will send them a DM with instructions on increasing their monthly quota via support on Patreon. They will be unable to perform any action that requires scanning a screenshot. 
+
+Patreon supporters can share their quota with their primary server using the `$share-quota` command in any channel where PokeNav is active. Multiple people can share their quota with the server, creating a larger pool of available scans. If any user exceeds their individual quota of 20 scans in a given month, they may use up to 30 additional scans from the shared quota.
+
+PokeNav documentation: https://docs.pokenavbot.com/quota.html
+
 ### Reporting Raid Bosses
 
 Command takes this form: "`$raid latios chapel 37`", where:
@@ -87,14 +107,13 @@ Once the raid boss is named, the map will update to reflect that information.
 
 ![pogo-map-egg-example-boss](https://user-images.githubusercontent.com/171037/56756767-822cb480-6760-11e9-9524-92497c0eb390.png)
 
+### Raid Boss Counters
 
-### Uploading Gym Screenshots
+If the raid boss was set, simply use `$counters` to get the list of counters for that boss. You can also provide current weather conditions, `$counters rain`.
 
-You can also upload a screenshot of the raid gym, showing the name of the gym and the time to hatch or despawn. E.G., here's an egg report.
+You can also ask for counters for a specific Pokemon -- e.g., `$counters drifloon`.
 
-![egg-screenshot](https://user-images.githubusercontent.com/171037/56749880-9799e280-6750-11e9-84af-5826e2893c2c.png)
-
-![egg-screenshot-report](https://user-images.githubusercontent.com/171037/56750541-ff9cf880-6751-11e9-9c7f-d6a4b4bc871a.png)
+![raid-boss-counter](https://user-images.githubusercontent.com/171037/56756932-f10a0d80-6760-11e9-866a-e84421d75f94.png)
 
 ### Screenshot Upload Quota
 
@@ -107,6 +126,3 @@ If a user exceeds their individual and shared quota, PokeNav will send them a DM
 Patreon supporters can share their quota with their primary server using the `$share-quota` command in any channel where PokeNav is active. Multiple people can share their quota with the server, creating a larger pool of available scans. If any user exceeds their individual quota of 20 scans in a given month, they may use up to 30 additional scans from the shared quota.
 
 PokeNav documentation: https://docs.pokenavbot.com/quota.html
-### Raid Counters
-
-If the raid boss was set, simply use `$counters` to get the list of counters for that boss. You can also provide current weather conditions, `$counters rain`.
