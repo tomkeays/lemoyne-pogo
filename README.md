@@ -115,3 +115,4 @@ You can also ask for counters for a specific Pokemon -- e.g., `$counters drifloo
 
 ![raid-boss-counter](https://user-images.githubusercontent.com/171037/56756932-f10a0d80-6760-11e9-866a-e84421d75f94.png)
 
+## Reporting Research Tasks
