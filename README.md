@@ -79,6 +79,10 @@ If you click the egg, it will show more information about the raid, including ti
 
 ![pogo-map-egg-example-expanded](https://user-images.githubusercontent.com/171037/56754392-ea789780-675a-11e9-9570-a36fd3f2481b.png)
 
+When the egg hatches, go into the channel for the raid party and report the boss. E.G., `$boss drifloon`. Note the name of the raid party channel will update to reflect the new boss.
+
+![egg-report-example-boss](https://user-images.githubusercontent.com/171037/56756651-38dc6500-6760-11e9-9efd-2b90635b3bf9.png)
+
 
 ### Uploading Gym Screenshots
 
