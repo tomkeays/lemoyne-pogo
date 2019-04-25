@@ -61,6 +61,17 @@ E.G., "`$egg giratina dolphy 51`" or "`$egg T5 dolphy 51`", where:
 
 Note: You will need to go into the the new raid channel after hatch and report the name of the Raid boss that hatched from the egg. E.G.,  `$boss giratina`
 
+### Example: Reporting Raid
+
+A user reports a T1 raid at the Devotion gym hatching in 45 minutes.
+
+![egg-report-example](https://user-images.githubusercontent.com/171037/56754071-11829980-675a-11e9-85e3-55798da51197.png)
+
+This creates a new channel for that raid, where members of the server can indicate their interest.
+
+![new-raid-channel-egg](https://user-images.githubusercontent.com/171037/56753944-bc468800-6759-11e9-905d-95458075dd5f.png)
+
+
 ### Uploading Gym Screenshots
 
 You can also upload a screenshot of the raid gym, showing the name of the gym and the time to hatch or despawn. E.G., here's an egg report.
