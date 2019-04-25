@@ -33,7 +33,7 @@ Report in the `#announce-raids-here` channel in Discord. Reporting a raid will c
 
 After reporting a raid, it will be listed in the `#active-raids` channel. More importantly, it will create a channel on the fly just for that raid, where members of the Discord server can indicate if they will participate.
 
-Full documentation: [https://docs.pokenavbot.com/raids.html](https://docs.pokenavbot.com/raids.html)
+PokeNav documentation: [https://docs.pokenavbot.com/raids.html](https://docs.pokenavbot.com/raids.html)
 
 ### Reporting Raid Bosses: Uploading Gym Screenshots
 
@@ -116,7 +116,9 @@ You can also ask for counters for a specific Pokemon -- e.g., `$counters drifloo
 
 ## Reporting Research Tasks
 
-Tom maintains a spreadsheet of the current Pokemon encounter research tasks at [https://tinyurl.com/tk-field-research](https://tinyurl.com/tk-field-research)
+You report research tasks from the command line in Discord. 
+
+PokeNav documentation: [https://docs.pokenavbot.com/research.html](https://docs.pokenavbot.com/research.html)
 
 Let's break this down for 3 of these
 
@@ -128,6 +130,8 @@ Let's break this down for 3 of these
 * `"use an item to evolve a pokemon"` is the reward for the research task
 
 Note: the name of the Pokemon doesn't need to be in quotes (and shouldn't be) since it is a single word. However, you have to quote the research task because it is a phrase.
+
+The research tasks involving Pokemon encounters don't tell you up front which Pokemon will be the reward. There are several sites that provide handy infographics with this information, including [LeekDuck](https://leekduck.com/research/), [The Silph Road](https://thesilphroad.com/research-tasks), [GamePress](https://pokemongo.gamepress.gg/research-tasks-list), etc. In addition, Tom maintains a spreadsheet of the current Pokemon encounter research tasks at [https://tinyurl.com/tk-field-research](https://tinyurl.com/tk-field-research)
 
 ![research-clock](https://user-images.githubusercontent.com/171037/56758500-cd48c680-6764-11e9-8634-63004d307010.png)
 
