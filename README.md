@@ -33,7 +33,7 @@ Report in the `#announce-raids-here` channel in Discord. Reporting a raid will c
 
 After reporting a raid, it will be listed in the `#active-raids` channel. More importantly, it will create a channel on the fly just for that raid, where members of the Discord server can indicate if they will participate.
 
-Full documentation: https://docs.pokenavbot.com/raids.html
+Full documentation: [https://docs.pokenavbot.com/raids.html](https://docs.pokenavbot.com/raids.html)
 
 ### Reporting Raid Bosses: Uploading Gym Screenshots
 
@@ -53,8 +53,7 @@ If a user exceeds their individual and shared quota, PokeNav will send them a DM
 
 Patreon supporters can share their quota with their primary server using the `$share-quota` command in any channel where PokeNav is active. Multiple people can share their quota with the server, creating a larger pool of available scans. If any user exceeds their individual quota of 20 scans in a given month, they may use up to 30 additional scans from the shared quota.
 
-PokeNav documentation: https://docs.pokenavbot.com/quota.html
-
+PokeNav documentation: [https://docs.pokenavbot.com/quota.html](https://docs.pokenavbot.com/quota.html)
 ### Reporting Raid Bosses: Command Line
 
 Command takes this form: "`$raid latios chapel 37`", where:
@@ -117,7 +116,7 @@ You can also ask for counters for a specific Pokemon -- e.g., `$counters drifloo
 
 ## Reporting Research Tasks
 
-Tom maintains a spreadsheet of the current Pokemon encounter research tasks at https://tinyurl.com/tk-field-research
+Tom maintains a spreadsheet of the current Pokemon encounter research tasks at [https://tinyurl.com/tk-field-research](https://tinyurl.com/tk-field-research)
 
 Let's break this down for 3 of these
 
@@ -126,7 +125,7 @@ Let's break this down for 3 of these
 * `$q` is the research reporting command
 * `Aerodactyl` is the Pokemon encounter reward for the research task
 * `clock` is the POI alias of the pokestop
-* "`use an item to evolve a pokemon`" is the reward for the research task
+* `"use an item to evolve a pokemon"` is the reward for the research task
 
 Note: the name of the Pokemon doesn't need to be in quotes (and shouldn't be) since it is a single word. However, you have to quote the research task because it is a phrase.
 
