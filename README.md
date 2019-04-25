@@ -23,6 +23,8 @@ Here are POI aliases for the Gyms and Pokestops on-campus and near campus. These
 
 Report in the `#announce-raids-here` channel in Discord. Reporting a raid will create a new channel in Discord that lasts for the duration of the raid.
 
+Full documentation: https://docs.pokenavbot.com/raids.html
+
 ### Reporting Raid Bosses
 
 Command takes this form: "`$raid latios chapel 37`", where:
