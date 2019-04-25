@@ -1,4 +1,4 @@
-# lemoyne-pogo
+# Le Moyne PoGo Map
 
 Discord invite: https://discord.gg/4u8Zjp
 
