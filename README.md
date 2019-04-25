@@ -23,6 +23,8 @@ Here are POI aliases for the Gyms and Pokestops on-campus and near campus. These
 
 Report in the `#announce-raids-here` channel in Discord. 
 
+### Reporting Raid Bosses
+
 Command takes this form: "`$raid latios chapel 37`", where:
 
 * `$raid` is the command
@@ -32,9 +34,11 @@ Command takes this form: "`$raid latios chapel 37`", where:
 
 ![raid-report](https://user-images.githubusercontent.com/171037/56749522-e3985780-674f-11e9-90e0-0c9031bb40e2.png)
 
+### Reporting Unhatched Raid Bosses
+
 If egg still hasn't hatched, instead use the `$egg` command. 
 
-E.G., "`$egg giratina dolphy 51`", where:
+E.G., "`$egg giratina dolphy 51`" or "`$egg T5 dolphy 51`", where:
 
 * `$egg` is the command
 * `giratina` is the name of the Pokemon, if known; else use the tier, e.g., `T5`
@@ -46,4 +50,6 @@ E.G., "`$egg giratina dolphy 51`", where:
 You can also upload a screenshot of the raid gym, showing the name of the gym and the time to hatch or despawn. E.G., here's an egg report.
 
 ![egg-screenshot](https://user-images.githubusercontent.com/171037/56749880-9799e280-6750-11e9-84af-5826e2893c2c.png)
+
+In either case, you will need to go into the the new raid channel and report the name of the Raid boss that hatched from the egg. E.G.,  `$boss giratina`
 
