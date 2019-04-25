@@ -116,3 +116,21 @@ You can also ask for counters for a specific Pokemon -- e.g., `$counters drifloo
 ![raid-boss-counter](https://user-images.githubusercontent.com/171037/56756932-f10a0d80-6760-11e9-866a-e84421d75f94.png)
 
 ## Reporting Research Tasks
+
+```
+$q "x200 stardust" library "battle in a raid"
+$q Aerodactyl clock "use an item to evolve a pokemon"
+$q "Omanyte / Kabuto" iron "win a level 3 or higher raid"
+$q Gastly bell "make 3 great throws"
+$q "x200 stardust" grewen "hatch an egg"
+$q "x500 stardust" pac "use 5 berries to help catch a pokemon"
+```
+
+![research-library](https://user-images.githubusercontent.com/171037/56758486-c1f59b00-6764-11e9-92a3-376007c20a88.png)
+
+
+![research-clock](https://user-images.githubusercontent.com/171037/56758500-cd48c680-6764-11e9-8634-63004d307010.png)
+
+
+
+![research-iron](https://user-images.githubusercontent.com/171037/56758520-d8035b80-6764-11e9-9c4d-b3ff3e9d0697.png)
