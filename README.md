@@ -83,6 +83,10 @@ When the egg hatches, go into the channel for the raid party and report the boss
 
 ![egg-report-example-boss](https://user-images.githubusercontent.com/171037/56756651-38dc6500-6760-11e9-9efd-2b90635b3bf9.png)
 
+Once the raid boss is named, the map will update to reflect that information.
+
+![pogo-map-egg-example-boss](https://user-images.githubusercontent.com/171037/56756767-822cb480-6760-11e9-9524-92497c0eb390.png)
+
 
 ### Uploading Gym Screenshots
 
