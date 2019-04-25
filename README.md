@@ -123,9 +123,9 @@ You can also ask for counters for a specific Pokemon -- e.g., `$counters drifloo
 
 ## Reporting Research Tasks
 
-You report research tasks from the command line in Discord. 
+You report research tasks from the command line in the `#announce-research-here` channel in Discord. Reporting a research task will add it to the `#active-research` channel in Discord that lasts until midnight, when the research tasks change over.
 
-The research tasks involving Pokemon encounters don't tell you up front which Pokemon will be the reward. There are several sites that provide handy infographics with this information, including [LeekDuck](https://leekduck.com/research/), [The Silph Road](https://thesilphroad.com/research-tasks), [GamePress](https://pokemongo.gamepress.gg/research-tasks-list), etc. In addition, Tom maintains a spreadsheet of the current Pokemon encounter research tasks at [https://tinyurl.com/tk-field-research](https://tinyurl.com/tk-field-research)
+The game doesn't tell you up front which Pokemon will be the reward for research tasks involving Pokemon encounters. Plus, some of them change after a month or two so, you have to remember or look them up. There are several sites that provide regularly updated infographics with this information, including [LeekDuck](https://leekduck.com/research/), [The Silph Road](https://thesilphroad.com/research-tasks), [GamePress](https://pokemongo.gamepress.gg/research-tasks-list), etc. However, I prefer a text list, so I maintain a spreadsheet of the current Pokemon encounter research tasks at [https://tinyurl.com/tk-field-research](https://tinyurl.com/tk-field-research)
 
 PokeNav documentation: [https://docs.pokenavbot.com/research.html](https://docs.pokenavbot.com/research.html)
 
