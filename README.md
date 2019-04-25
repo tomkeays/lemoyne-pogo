@@ -8,7 +8,7 @@ Here's what the base map looks like now.
 
 ![pogo-map-unpopulated](https://user-images.githubusercontent.com/171037/56751665-9f5b8600-6754-11e9-8a48-51f1eed00cd9.png)
 
-Note: the "Le Moyne Clock" location appears twice. This is because PokeNav verified the location at one point when the GPS coordinates were off. Those coordinates were fixed in the game, but PokeNav still has the old information. In the meantime, we set the POI alias using the correct GPS coordinates, so it appears twice. PokeNav doesn't yet have a mechanism for the community to report these sorts of errors.
+Note: There really should only be 6 Pokestops on the main quad at Le Moyne College. The "Le Moyne Clock" location appears twice because PokeNav verified the location at one point when the GPS coordinates were off. Those coordinates were fixed in the game in 2018, but PokeNav still has the old information. In the meantime, we set the POI alias using the correct GPS coordinates, so the clock Pokestop appears twice. At the moment, PokeNav doesn't have a mechanism for the community to report these sorts of errors.
 
 ## POI Aliases
 
