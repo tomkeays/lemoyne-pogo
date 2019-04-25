@@ -122,7 +122,9 @@ The research tasks involving Pokemon encounters don't tell you up front which Po
 
 PokeNav documentation: [https://docs.pokenavbot.com/research.html](https://docs.pokenavbot.com/research.html)
 
-Let's break this down for 3 of these
+### Examples: Research Reporting 
+
+Let's give a few examples to show how this works. In each, I'm using the POI alias instead of the full name of the Pokestop. 
 
 `$q Aerodactyl clock "use an item to evolve a pokemon"`
 
