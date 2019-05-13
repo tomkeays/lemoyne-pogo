@@ -138,7 +138,9 @@ The game doesn't tell you up front which Pokemon will be the reward for research
 
 PokeNav documentation: [https://docs.pokenavbot.com/research.html](https://docs.pokenavbot.com/research.html)
 
-### Examples: Research Reporting 
+### Examples: Research Reporting
+
+* See: [research-tasks.txt](research-tasks.txt) template for reporting tasks on campus
 
 Let's give a few examples to show how this works. In each, I'm using the POI alias instead of the full name of the Pokestop. 
 
