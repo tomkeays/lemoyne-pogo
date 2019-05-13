@@ -1,6 +1,6 @@
 Research Tasks
 
-Replace xxx with the alias for the POI
+Replace xxx with the alias for the Pokéstop
 
 * bell = "Le Moyne College Bell Tower"
 * clock = "Le Moyne Clock"
