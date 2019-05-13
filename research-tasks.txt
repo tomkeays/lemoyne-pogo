@@ -1,3 +1,18 @@
+Research Tasks
+
+Replace xxx with the alias for the POI
+
+* bell = "Le Moyne College Bell Tower"
+* clock = "Le Moyne Clock"
+* grewen = "Grewen Hall Of Presidents"
+* iron = "Iron Sculpture"
+* library = "Falcone Library"
+* lynch = "Shane Lynch Memorial"
+* pac = "W. Carroll Coyne Center for the Performing Arts"
+* soule = "Soule Branch Library"
+* cemetery = "Salt Springs Cemetery"
+* wheaton = "Homer Wheaton Park"
+
 Battle: Gym
 
 $q "Mankey / Makuhita" xxx "Battle in a Gym"
