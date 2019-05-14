@@ -135,13 +135,16 @@ You can also ask for counters for a specific Pokemon -- e.g., `$counters drifloo
 
 You report research tasks from the command line in the `#announce-research-here` channel in Discord. Reporting a research task will add it to the `#active-research` channel in Discord that lasts until midnight, when the research tasks change over.
 
-The game doesn't tell you up front which Pokemon will be the reward for research tasks involving Pokemon encounters. Plus, some of them change after a month or two so, you have to remember or look them up. There are several sites that provide regularly updated infographics with this information, including [LeekDuck](https://leekduck.com/research/), [The Silph Road](https://thesilphroad.com/research-tasks), [GamePress](https://pokemongo.gamepress.gg/research-tasks-list), etc. However, I prefer a text list, so I maintain a spreadsheet of the current Pokemon encounter research tasks at [https://tinyurl.com/tk-field-research](https://tinyurl.com/tk-field-research)
+The game doesn't tell you up front which Pokemon will be the reward for research tasks involving Pokemon encounters. Plus, some of them change after a month or two so, you have to remember or look them up. There are several sites that provide regularly updated infographics with this information, including [LeekDuck](https://leekduck.com/research/), [The Silph Road](https://thesilphroad.com/research-tasks), [GamePress](https://pokemongo.gamepress.gg/research-tasks-list), etc. 
+
+However, I prefer a text list, so I maintain the following:
+
+* [https://tinyurl.com/tk-field-researchspreadsheet of the current Pokemon encounter research tasks](https://tinyurl.com/tk-field-research)
+* See: [template for reporting tasks on campus](research-tasks.txt)
 
 PokeNav documentation: [https://docs.pokenavbot.com/research.html](https://docs.pokenavbot.com/research.html)
 
 ### Examples: Research Reporting
-
-* See: [research-tasks.txt](research-tasks.txt) template for reporting tasks on campus
 
 Let's give a few examples to show how this works. In each, I'm using the POI alias instead of the full name of the Pokestop. 
 
