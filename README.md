@@ -38,6 +38,7 @@ Here are Points of Interest (POI) aliases for the Gyms and Pokestops on-campus a
 * library = "Falcone Library"
 * lynch = "Shane Lynch Memorial"
 * pac = "W. Carroll Coyne Center for the Performing Arts"
+* sign = "Lemoyne College Sign"
 * soule = "Soule Branch Library"
 * cemetery = "Salt Springs Cemetery"
 * wheaton = "Homer Wheaton Park"
