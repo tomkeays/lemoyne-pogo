@@ -16,7 +16,7 @@ Here's what the PoGo map for the Le Moyne College quad looks like.
 
 ![pogo-map-unpopulated](https://user-images.githubusercontent.com/171037/56751665-9f5b8600-6754-11e9-8a48-51f1eed00cd9.png)
 
-Note: There really should only be six Pokestops on the main quad at Le Moyne College. The "Le Moyne Clock" location appears twice because PokeNav verified the location at one point when the GPS coordinates were off. Those coordinates were fixed in the game in 2018, but PokeNav still has the old information. In the meantime, we set the POI alias using the correct GPS coordinates, so the clock Pokestop appears twice. At the moment, PokeNav doesn't have a mechanism for the community to report these sorts of errors.
+Note: The "Le Moyne Clock" location appears twice because PokeNav verified the location at one point when the GPS coordinates were off. Those coordinates were fixed in the game in 2018, but PokeNav still has the old information. In the meantime, we set the POI alias using the correct GPS coordinates, so the clock Pokestop appears twice. At the moment, PokeNav doesn't have a mechanism for the community to report these sorts of errors.
 
 ## POI Aliases
 
@@ -67,7 +67,7 @@ Note: there's a limit of 20 screenshot uploads per month per person. You can che
 
 If a user exceeds their individual and shared quota, PokeNav will send them a DM with instructions on increasing their monthly quota via support on Patreon. They will be unable to perform any action that requires scanning a screenshot. 
 
-Patreon supporters can share their quota with their primary server using the `$share-quota` command in any channel where PokeNav is active. Multiple people can share their quota with the server, creating a larger pool of available scans. If any user exceeds their individual quota of 20 scans in a given month, they may use up to 30 additional scans from the shared quota.
+Note: I'm not endorsing the following; in fact, just the opposite. I'm mentioning it so you understand how this particular bot works. "Patreon supporters can share their quota with their primary server using the `$share-quota` command in any channel where PokeNav is active. Multiple people can share their quota with the server, creating a larger pool of available scans. If any user exceeds their individual quota of 20 scans in a given month, they may use up to 30 additional scans from the shared quota."
 
 PokeNav documentation: [https://docs.pokenavbot.com/quota.html](https://docs.pokenavbot.com/quota.html)
 
