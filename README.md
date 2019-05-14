@@ -139,8 +139,8 @@ The game doesn't tell you up front which Pokemon will be the reward for research
 
 However, I prefer a text list, so I maintain the following:
 
-* [https://tinyurl.com/tk-field-researchspreadsheet of the current Pokemon encounter research tasks](https://tinyurl.com/tk-field-research)
-* See: [template for reporting tasks on campus](research-tasks.txt)
+* [spreadsheet of the current Pokemon encounter research tasks](https://tinyurl.com/tk-field-research)
+* [template for reporting tasks to Discord](research-tasks.txt)
 
 PokeNav documentation: [https://docs.pokenavbot.com/research.html](https://docs.pokenavbot.com/research.html)
 
