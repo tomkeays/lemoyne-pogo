@@ -37,6 +37,7 @@ Here are Points of Interest (POI) aliases for the Gyms and Pokestops on-campus a
 * iron = "Iron Sculpture"
 * library = "Falcone Library"
 * lynch = "Shane Lynch Memorial"
+* mitchell = "Mitchell Hall"
 * pac = "W. Carroll Coyne Center for the Performing Arts"
 * sign = "Lemoyne College Sign"
 * soule = "Soule Branch Library"
