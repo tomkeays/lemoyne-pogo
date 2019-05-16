@@ -10,6 +10,7 @@ Replace xxx with the alias for the Pokéstop
 * lynch = "Shane Lynch Memorial"
 * pac = "W. Carroll Coyne Center for the Performing Arts"
 * sign = "Lemoyne College Sign"
+* mitchell = "Mitchell Hall"
 * soule = "Soule Branch Library"
 * cemetery = "Salt Springs Cemetery"
 * wheaton = "Homer Wheaton Park"
