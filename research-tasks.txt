@@ -27,7 +27,8 @@ $q "Bulbasaur / Charmander / Squirtle" xxx "Win a Gym Battle"
 
 Battle: Raid
 
-$q Bronzor xxx "Battle in a Raid"
+$q Meditite xxx "Battle in a Raid"
+$q Bronzor xxx "Win a Raid"
 $q Absol xxx "Win 3 Raids"
 $q Aerodactyl xxx "Win 5 Raids"
 $q Sableye xxx "Win a Level 2 or higher Raid"
