@@ -39,6 +39,7 @@ Here are Points of Interest (POI) aliases for the Gyms and Pokestops on-campus a
 * lynch = "Shane Lynch Memorial"
 * mitchell = "Mitchell Hall"
 * pac = "W. Carroll Coyne Center for the Performing Arts"
+* reilly = "Reilly Hall"
 * sign = "Lemoyne College Sign"
 * soule = "Soule Branch Library"
 * cemetery = "Salt Springs Cemetery"
