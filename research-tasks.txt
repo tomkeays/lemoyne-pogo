@@ -16,6 +16,17 @@ Replace xxx with the alias for the Pokéstop
 * cemetery = "Salt Springs Cemetery"
 * wheaton = "Homer Wheaton Park"
 
+Adventure Week 2019
+
+$q "Adventure Week 2019: Catch five Omanyte or Kabuto" xxx Aerodactyl
+$q "Adventure Week 2019: Earn three candies walking with your buddy" xxx Anorith
+$q "Adventure Week 2019: Evolve a Lileep or Anorith" xxx Onix
+$q "Adventure Week 2019: Hatch two eggs" xxx Lileep
+$q "Adventure Week 2019: Spin two PokéStops you have not visited before" xxx Shieldon
+$q "Adventure Week 2019: Spin 25 PokéStops" xxx Cranidos
+$q "Adventure Week 2019: Catch five Aron" xxx "Metal Coat"
+$q "Adventure Week 2019: Hatch two eggs" xxx "Rare Candy"
+
 Battle: Gym
 
 $q "Mankey / Makuhita" xxx "Battle in a Gym"
