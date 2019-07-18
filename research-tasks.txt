@@ -17,61 +17,51 @@ Replace xxx with the alias for the Pokéstop
 * cemetery = "Salt Springs Cemetery"
 * wheaton = "Homer Wheaton Park"
 
-Adventure Week 2019
-
-$q Aerodactyl xxx "Adventure Week 2019: Catch 5 Omanyte or Kabuto"
-$q Anorith xxx "Adventure Week 2019: Earn 3 candies walking with your buddy"
-$q Onix xxx "Adventure Week 2019: Evolve a Lileep or Anorith"
-$q Lileep xxx "Adventure Week 2019: Hatch 2 eggs"
-$q Shieldon xxx "Adventure Week 2019: Spin 2 PokéStops you have not visited before"
-$q Cranidos xxx "Adventure Week 2019: Spin 25 PokéStops"
-$q "Metal Coat" xxx "Adventure Week 2019: Catch 5 Aron"
-$q "Rare Candy" xxx "Adventure Week 2019: Hatch 2 eggs"
-
 Battle: Gym
 
-$q "Mankey / Makuhita" xxx "Battle in a Gym"
+$q "Mankey or Makuhita" xxx "Battle in a Gym"
 $q Machop xxx "Battle in a Gym 5 times"
-$q Electabuzz xxx "Use a Super Effective Charged Attack in 7 Gym Battles"
+$q "Bulbasaur or Charmander or Squirtle" xxx "Win a Gym Battle"
 $q Jynx xxx "Win 3 Gym Battles"
 $q Grimer xxx "Win 5 Gym Battles"
-$q "Bulbasaur / Charmander / Squirtle" xxx "Win a Gym Battle"
+$q Electabuzz xxx "Use a Super Effective Charged Attack in 7 Gym Battles"
 
 Battle: Raid
 
 $q Meditite xxx "Battle in a Raid"
-$q Bronzor xxx "Win a Raid"
-$q Absol xxx "Win 3 Raids"
-$q Aerodactyl xxx "Win 5 Raids"
 $q Sableye xxx "Win a Level 2 or higher Raid"
-$q "Omanyte / Kabuto" xxx "Win a Level 3 or higher Raid"
+$q "Omanyte or Kabuto" xxx "Win a Level 3 or higher Raid"
+$q Aerodactyl xxx "Win 5 Raids"
+
+# $q Bronzor xxx "Win a Raid"
+# $q Absol xxx "Win 3 Raids"
 
 Use Berries
 
+$q Weepinbell xxx "Use 5 Berries to help catch Pokémon"
 $q Swalot xxx "Use 5 Nanab Berries while catching Pokémon"
 $q Loudred xxx "Use 10 Pinap Berries while catching Pokémon"
-$q Weepinbell xxx "Use 5 Berries to help catch Pokémon"
 
 Catch
 
-$q Diglett xxx "Catch 10 Ground-type Pokémon"
-$q "Magikarp / Teddiursa" xxx "Catch 10 Pokémon"
-$q "Minun / Plusle" xxx "Catch 3 Electric-, Normal-, or Poison-type Pokémon"
+$q "Magikarp or Teddiursa" xxx "Catch 10 Pokémon"
+$q "Minun or Plusle" xxx "Catch 3 Electric-, Normal-, or Poison-type Pokémon"
 $q Breloom xxx "Catch 5 Fighting-type Pokémon"
 $q Poochyena xxx "Catch 5 Flying-, Psychic-, or Dark-type Pokémon"
-$q "Vulpix / Poliwag" xxx "Catch 5 Pokémon with Weather Boost"
+$q "Vulpix or Poliwag" xxx "Catch 5 Pokémon with Weather Boost"
 $q Seel xxx "Catch 5 Water-type Pokémon"
 $q Growlithe xxx "Catch 7 Grass, Water, or Fire-type Pokémon"
+$q Diglett xxx "Catch 10 Ground-type Pokémon"
 $q Dratini xxx "Catch a Dragon-type Pokémon"
 
 Evolve
 
-$q "Eevee / Pidgey" xxx "Evolve a Pokémon"
+$q "Eevee or Pidgey" xxx "Evolve a Pokémon"
 $q Skarmory xxx "Use an item to evolve a Pokémon"
 
 Hatch
 
-$q "Exeggcute / Spoink" xxx "Hatch an Egg"
+$q "Exeggcute or Spoink" xxx "Hatch an Egg"
 $q Magmar xxx "Hatch 3 Eggs"
 $q Chansey xxx "Hatch 5 Eggs"
 
@@ -79,14 +69,15 @@ Misc
 
 $q Slakoth xxx "Earn 5 Candies walking with your buddy"
 $q "Alolan Exeggecutor" xxx "Send 10 Gifts to friends"
-$q "Bulbasaur / Charmander / Squirtle" xxx "Power up a Pokémon 5 times"
 $q Drifloon xxx "Trade a Pokémon"
 $q Shuppet xxx "Transfer 3 Pokémon"
 
+# $q "Bulbasaur or Charmander or Squirtle" xxx "Power up a Pokémon 5 times"
+
 Throws
 
-$q "Voltorb / Geodude" xxx "Make 5 Nice throws"
-$q "Gastly / Lileep / Anorith" xxx "Make 3 Great throws"
+$q "Voltorb or Geodude" xxx "Make 5 Nice throws"
+$q "Gastly or Lileep or Anorith" xxx "Make 3 Great throws"
 $q Onix xxx "Make 3 Great throws in a row"
 $q Spinda xxx "Make 5 Great Curveball Throws in a row"
 $q Larvitar xxx "Make 3 Excellent throws in a row"
