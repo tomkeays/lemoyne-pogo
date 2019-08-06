@@ -1,5 +1,5 @@
 Pokémon Research Tasks
-# updated 2019-07-18
+# updated 2019-08-06
 
 Replace xxx with the alias for the Pokéstop
 
@@ -16,6 +16,14 @@ Replace xxx with the alias for the Pokéstop
 * soule = "Soule Branch Library"
 * cemetery = "Salt Springs Cemetery"
 * wheaton = "Homer Wheaton Park"
+
+Go Fest Global
+
+$q "Taillow or Snorunt or Lotad or Swablu or Poliwag" xxx "Go Fest Global: Win 3 Gym Battles"
+$q "Taillow or Snorunt or Lotad or Swablu or Poliwag" xxx "Go Fest Global: Evolve 3 Pokémon"
+$q "Taillow or Snorunt or Lotad or Swablu or Poliwag" xxx "Go Fest Global: Make 2 Great Curveball Throws in a Row"
+$q "Taillow or Snorunt or Lotad or Swablu or Poliwag" xxx "Go Fest Global: Hatch an Egg"
+$q "Taillow or Snorunt or Lotad or Swablu or Poliwag" xxx "Go Fest Global: Win a Raid"
 
 Battle: Gym
 
