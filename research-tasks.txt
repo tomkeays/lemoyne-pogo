@@ -7,6 +7,7 @@ Replace xxx with the alias for the Pokéstop
 * clock = "Le Moyne Clock"
 * grewen = "Grewen Hall Of Presidents"
 * iron = "Iron Sculpture"
+* lacrosse = "LeMoyne Dolphins Lacrosse Field"
 * library = "Falcone Library"
 * lynch = "Shane Lynch Memorial"
 * mitchell = "Mitchell Hall"

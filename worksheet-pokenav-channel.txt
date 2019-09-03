@@ -1,0 +1,40 @@
+$set location 43.046944 -76.144444  #set to center of Syracuse according to Wikipedia coords
+$set radius 20  #kilometers
+
+$create poi gym "Devotion" 43.048866 -76.088404  #2099467
+$create poi-alias 2099467 devotion
+$create poi gym "Eric Dolphy Jr. Statue" 43.049524 -76.089613  #2099468
+$create poi-alias 2099468 dolphy
+$create poi gym "Panasci Family Chapel" 43.04783 -76.087778  #2099469
+$create poi-alias 2099469 chapel
+
+$create poi pokestop "Falcone Library" 43.048535 -76.090281  #2099499
+$create poi-alias 2099499 library
+$create poi pokestop "Le Moyne Clock" 43.049302 -76.089503  #2099922
+$create poi-alias 2099922 clock
+$create poi pokestop "Grewen Hall Of Presidents" 43.048866 -76.087769  #2099507
+$create poi-alias 2099507 grewen
+$create poi pokestop "Iron Sculpture" 43.0484 -76.087015  #2099508
+$create poi-alias 2099508 iron
+$create poi pokestop "Le Moyne College Bell Tower" 43.048027 -76.088771  #2099509
+$create poi-alias 2099509 bell
+$create poi pokestop "Shane Lynch Memorial" 43.05023 -76.085919  #2099510
+$create poi-alias 2099510 lynch
+$create poi pokestop "W. Carroll Coyne Center for the Performing Arts" 43.048519 -76.091261  #2099511
+$create poi-alias 2099511 pac
+
+$create poi pokestop "Salt Springs Cemetery" 43.047296 -76.097619  #2099923
+$create poi-alias 2099923 cemetery
+$create poi pokestop "Soule Branch Library" 43.048353 -76.093928  #2099924
+$create poi-alias 2099924 soule
+
+$create poi pokestop "Lemoyne College Sign" 43.047878 -76.089799  #2113062
+$create poi-alias 2113062 sign
+$create poi pokestop "Mitchell Hall" 43.047875 -76.089801  #2113193
+$create poi-alias 2113193 mitchell
+$create poi pokestop "Reilly Hall" 43.048661 -76.088086  #2113599
+$create poi-alias 2113599 reilly
+
+$create poi pokestop "LeMoyne Dolphins Lacrosse Field" 43.05072 -76.087204 #2136304
+$create poi-alias 2136304 lacrosse
+
