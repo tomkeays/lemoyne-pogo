@@ -1,5 +1,5 @@
 Pokémon Research Tasks
-# updated 2019-08-06
+# updated 2019-09-03
 
 Replace xxx with the alias for the Pokéstop
 
@@ -17,77 +17,68 @@ Replace xxx with the alias for the Pokéstop
 * cemetery = "Salt Springs Cemetery"
 * wheaton = "Homer Wheaton Park"
 
-Go Fest Global
-
-$q "Taillow or Snorunt or Lotad or Swablu or Poliwag" xxx "Go Fest Global: Win 3 Gym Battles"
-$q "Taillow or Snorunt or Lotad or Swablu or Poliwag" xxx "Go Fest Global: Evolve 3 Pokémon"
-$q "Taillow or Snorunt or Lotad or Swablu or Poliwag" xxx "Go Fest Global: Make 2 Great Curveball Throws in a Row"
-$q "Taillow or Snorunt or Lotad or Swablu or Poliwag" xxx "Go Fest Global: Hatch an Egg"
-$q "Taillow or Snorunt or Lotad or Swablu or Poliwag" xxx "Go Fest Global: Win a Raid"
-
 Battle: Gym
 
 $q "Mankey or Makuhita" xxx "Battle in a Gym"
 $q Machop xxx "Battle in a Gym 5 times"
 $q "Bulbasaur or Charmander or Squirtle" xxx "Win a Gym Battle"
 $q Jynx xxx "Win 3 Gym Battles"
-$q Grimer xxx "Win 5 Gym Battles"
 $q Electabuzz xxx "Use a Super Effective Charged Attack in 7 Gym Battles"
 
 Battle: Raid
 
-$q Meditite xxx "Battle in a Raid"
-$q Sableye xxx "Win a Level 2 or higher Raid"
+$q Spoink xxx "Battle in a Raid"
 $q "Omanyte or Kabuto" xxx "Win a Level 3 or higher Raid"
 $q Aerodactyl xxx "Win 5 Raids"
 
-# $q Bronzor xxx "Win a Raid"
-# $q Absol xxx "Win 3 Raids"
+Battle: Misc.
+
+$q Natu xxx "Battle a team leader 2 times"
+$q Electrike xxx "Battle another trainer"
 
 Use Berries
 
-$q Weepinbell xxx "Use 5 Berries to help catch Pokémon"
-$q Swalot xxx "Use 5 Nanab Berries while catching Pokémon"
-$q Loudred xxx "Use 10 Pinap Berries while catching Pokémon"
+$q Snorunt xxx "Use 5 Berries to help catch Pokémon"
+$q Scyther xxx "Use 5 Razz Berries to help catch Pokémon"
+$q Swinub xxx "Use 10 Nanab Berries to help catch Pokémon"
 
 Catch
 
-$q "Magikarp or Teddiursa" xxx "Catch 10 Pokémon"
-$q "Minun or Plusle" xxx "Catch 3 Electric-, Normal-, or Poison-type Pokémon"
-$q Breloom xxx "Catch 5 Fighting-type Pokémon"
-$q Poochyena xxx "Catch 5 Flying-, Psychic-, or Dark-type Pokémon"
-$q "Vulpix or Poliwag" xxx "Catch 5 Pokémon with Weather Boost"
-$q Seel xxx "Catch 5 Water-type Pokémon"
-$q Growlithe xxx "Catch 7 Grass, Water, or Fire-type Pokémon"
-$q Diglett xxx "Catch 10 Ground-type Pokémon"
+$q Magikarp xxx "Catch 10 Pokémon"
+$q Sandshrew xxx "Catch 15 Pokémon"
 $q Dratini xxx "Catch a Dragon-type Pokémon"
+$q Poochyena xxx "Catch 3 different species of Dark-type Pokémon"
+$q Drowzee xxx "Catch 3 different species of Psychic-type Pokémon"
+$q Seel xxx "Catch 4 Grass- or Ice-type Pokémon"
+$q Marill xxx "Catch 5 Fairy-type Pokémon"
+$q Zigzagoon xxx "Catch 5 Normal-type Pokémon"
+$q Doduo xxx "Catch 3 Fire-, Water, or Electric-type Pokémon"
+$q "Vulpix or Poliwag" xxx "Catch 5 Pokémon with Weather Boost"
 
 Evolve
 
-$q "Eevee or Pidgey" xxx "Evolve a Pokémon"
+$q Cubone xxx "Evolve a Pokémon"
 $q Skarmory xxx "Use an item to evolve a Pokémon"
 
 Hatch
 
-$q "Exeggcute or Spoink" xxx "Hatch an Egg"
+$q "Exeggcute or Hoppip" xxx "Hatch an Egg"
 $q Magmar xxx "Hatch 3 Eggs"
 $q Chansey xxx "Hatch 5 Eggs"
 
 Misc
 
-$q Slakoth xxx "Earn 5 Candies walking with your buddy"
-$q "Alolan Exeggecutor" xxx "Send 10 Gifts to friends"
-$q Drifloon xxx "Trade a Pokémon"
-$q Shuppet xxx "Transfer 3 Pokémon"
-
-# $q "Bulbasaur or Charmander or Squirtle" xxx "Power up a Pokémon 5 times"
+$q "Bulbasaur or Charmander or Squirtle" xxx "Power up a Pokémon 5 times"
+$q Ponyta xxx "Earn 5 Candies walking with your buddy"
+$q Sneasel xxx "Send 10 Gifts to friends"
+$q Gulpin xxx "Take 5 Snapshots of Eevee"
+$q Bronzor xxx "Trade a Pokémon"
+$q Sableye xxx "Transfer 3 Pokémon"
 
 Throws
 
-$q "Voltorb or Geodude" xxx "Make 5 Nice throws"
-$q "Gastly or Lileep or Anorith" xxx "Make 3 Great throws"
+$q Voltorb xxx "Make 5 Nice throws"
+$q "Gastly or Buneary or Lileep or Anorith" xxx "Make 3 Great throws"
 $q Onix xxx "Make 3 Great throws in a row"
 $q Spinda xxx "Make 5 Great Curveball Throws in a row"
 $q Larvitar xxx "Make 3 Excellent throws in a row"
-
-$q "x1 Rare Candy" xxx "Make 3 Great Curveball Throws in a row"
